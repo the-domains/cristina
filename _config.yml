@@ -1,0 +1,35 @@
+name: Cristina+
+analytics: {}
+github: true
+author:
+  name: Ampils of NY
+  email: ampilsofny@icloud.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5
+color:
+  lightness: 0.44714760068970444
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  saturation: 0.5318673214716528
+  brandStrength: 0.03693565750423252
+  rhythmicContrast: 0.6815039507768824
+content_rating:
+  adult: false
+typography_spectrum: 0.5
+opengraph: {}
